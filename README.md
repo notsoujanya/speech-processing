@@ -16,7 +16,7 @@ Each lab is stored in its own branch. You can switch to a lab branch to view the
 | Lab 4  | (https://github.com/notsoujanya/speech-processing/tree/lab4) |
 | Lab 5  | (https://github.com/notsoujanya/speech-processing/tree/lab5) |
 | Lab 6  | (https://github.com/notsoujanya/speech-processing/tree/lab6) |
-| Lab 7  | (https://github.com/notsoujanya/speech-processing/tree/lab6) |
+| Lab 7  | (https://github.com/notsoujanya/speech-processing/tree/lab7) |
 | Lab 8  | (https://github.com/notsoujanya/speech-processing/tree/lab8) |
 | Lab 9  | (https://github.com/notsoujanya/speech-processing/tree/lab9) |
 
