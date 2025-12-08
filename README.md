@@ -31,4 +31,4 @@ Each lab is stored in its own branch. You can switch to a lab branch to view the
 
 If any issues occur or a file is missing in the main view, please switch branches manually.
 
-Happy Evaluating!
+Thank you :)
